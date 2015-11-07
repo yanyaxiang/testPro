@@ -1,3 +1,1 @@
-good
-mygit1 added
-mygit2 added
+这是2015年11月17号14：54添加的内容
